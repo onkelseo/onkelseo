@@ -5,4 +5,3 @@
 # What is cleverNotes?
 
 cleverNotes is currently a notewriting project from me and [Jak2k](https://github.com/Jak2k).
-#### Coming soon...
